@@ -1,5 +1,5 @@
 {
-    "name": "phpunit/phpunit-selenium",
+    "name": "drobertduke/phpunit-selenium",
     "description": "Selenium Server integration for PHPUnit",
     "type": "library",
     "keywords": [
@@ -27,7 +27,7 @@
     },
     "require": {
         "php": ">=5.3.3",
-        "phpunit/phpunit": ">=3.7.0@stable",
+        "drobertduke/phpunit": ">=3.7.0@stable",
         "ext-curl": "*",
         "ext-dom": "*"
     },
